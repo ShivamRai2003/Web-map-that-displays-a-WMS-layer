@@ -1,6 +1,6 @@
 ![](https://github.com/ShivamRai2003/Web-map-that-displays-a-WMS-layer/blob/master/IMAGES/1.png)
 
-## Task : Webmap-that-displays-a-WMS-layer
+##              Task : Webmap-that-displays-a-WMS-layer (Google Code In)
 
 1. First Install the GeoServer From This Link http://geoserver.org/release/2.16.x/ and also Use any open data file (e.g. from your cities open data portal or the World Bank portal
 
@@ -58,7 +58,7 @@ And Now GeoServer Screen Will be Open.
 
 ![](https://github.com/ShivamRai2003/Web-map-that-displays-a-WMS-layer/blob/master/IMAGES/7.JPG)
 
-14. Generate the layer’s bounding boxes by clicking the Compute from data and then Compute from native bounds links.
+14. Generate the layer’s bounding boxes by clicking the **Compute from data** and then **Compute from native bounds** links.
 
 ![](https://github.com/ShivamRai2003/Web-map-that-displays-a-WMS-layer/blob/master/IMAGES/8.JPG)
 
