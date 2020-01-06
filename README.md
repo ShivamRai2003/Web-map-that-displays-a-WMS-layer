@@ -1,12 +1,12 @@
 ![](https://github.com/ShivamRai2003/Web-map-that-displays-a-WMS-layer/blob/master/IMAGES/1.png)
 
-# Task Web-map-that-displays-a-WMS-layer
+## Task Web-map-that-displays-a-WMS-layer
 
 1. First Install the GeoServer From This Link http://geoserver.org/release/2.16.x/ and also Use any open data file (e.g. from your cities open data portal or the World Bank portal
 
-![]()
+![](https://github.com/ShivamRai2003/Web-map-that-displays-a-WMS-layer/blob/master/IMAGES/101.JPG)
 
-2. After Successfully Installation Open GeoServer. 
+2. After Successfully Installation Open **GeoServer**. 
 
 `` This tutorial assumes that GeoServer is running at http://localhost:8080/geoserver/web/``
 
