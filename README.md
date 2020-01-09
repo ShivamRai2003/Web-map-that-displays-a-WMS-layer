@@ -92,6 +92,12 @@ OpenLayers is a high-performance, feature-packed library for creating interactiv
 
 This is a great way to preview options in GeoServer without coding a long URL. The reflector will output PNG (the default), JPEG, PNG 8, and GIF. Also, in cases where you don't want to use GeoWebCache, this is quite useful.
 
+Standard WMS requests can be quite long and verbose. For instance the following, which returns an OpenLayers application with an 800x600 image set to display the feature ``topp:states``, with bounds set to the northwestern hemisphere by providing the appropriate bounding box
+
+Using the reflector you can make the request very short and display the Web Map.
+``http://localhost:8080/geoserver/wms/reflect?format=application/openlayers&layers=topp:states&width=800``
+And to create the OUTPUT image. ``<img src="http://localhost:8080/geoserver/wms/reflect?layers=topp:states&width=400" height="169" width="400"/>``
+
 Also It creates an open layers or just reflect the image file.
 
 # Image of the Layer
