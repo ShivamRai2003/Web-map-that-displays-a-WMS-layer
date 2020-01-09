@@ -70,7 +70,24 @@ And Now GeoServer Screen Will be Open.
 
 17. An OpenLayers map will load in a new tab and display the shapefile data with the default line style. You can use this preview map to zoom and pan around the dataset, as well as display the attributes of features.
 
+## Installation of Open Layers
+
+OpenLayers is a high-performance, feature-packed library for creating interactive maps on the web. It can display map tiles, vector data and markers loaded from any source on any web page. OpenLayers has been developed to further the use of geographic information of all kinds. It is completely free, Open Source JavaScript, released under the BSD 2-Clause License.
+
+1. First Install the ol package by ``npm install ol``
+2. Create the bundle for the browser by ``npm run build ``
+3.Download any IDE (Integrated Development Environment) like Visual Code.
+4.You Can Install Visual Code Plugins (For not getting any error) ``Optional``
+5.Now Create a New HTML file.
+7.Open the html file through Web Browser and see the map.
+
 18. Now Create an html document that will display the **OpenLayers** to display the added layer.
+
+## WMS REFLECTOR
+
+This is a great way to preview options in GeoServer without coding a long URL. The reflector will output PNG (the default), JPEG, PNG 8, and GIF. Also, in cases where you don't want to use GeoWebCache, this is quite useful.
+
+Also It creates an open layers or just reflect the image file.
 
 # Image of the Layer
 
