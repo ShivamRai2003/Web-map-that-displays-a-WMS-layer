@@ -75,10 +75,15 @@ And Now GeoServer Screen Will be Open.
 OpenLayers is a high-performance, feature-packed library for creating interactive maps on the web. It can display map tiles, vector data and markers loaded from any source on any web page. OpenLayers has been developed to further the use of geographic information of all kinds. It is completely free, Open Source JavaScript, released under the BSD 2-Clause License.
 
 1. First Install the ol package by ``npm install ol``
+
 2. Create the bundle for the browser by ``npm run build ``
+
 3.Download any IDE (Integrated Development Environment) like Visual Code.
+
 4.You Can Install Visual Code Plugins (For not getting any error) ``Optional``
+
 5.Now Create a New HTML file.
+
 7.Open the html file through Web Browser and see the map.
 
 18. Now Create an html document that will display the **OpenLayers** to display the added layer.
