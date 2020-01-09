@@ -78,15 +78,15 @@ OpenLayers is a high-performance, feature-packed library for creating interactiv
 
 2. Create the bundle for the browser by ``npm run build ``
 
-3.Download any IDE (Integrated Development Environment) like Visual Code.
+3. Download any IDE (Integrated Development Environment) like Visual Code.
 
-4.You Can Install Visual Code Plugins (For not getting any error) ``Optional``
+4. You Can Install Visual Code Plugins (For not getting any error) ``Optional``
 
-5.Now Create a New HTML file.
+5. Now Create a New HTML file.
 
-7.Open the html file through Web Browser and see the map.
+6. Open the html file through Web Browser and see the map.
 
-18. Now Create an html document that will display the **OpenLayers** to display the added layer.
+7. Now Create an html document that will display the **OpenLayers** to display the added layer.
 
 ## WMS REFLECTOR
 
